@@ -1,0 +1,2 @@
+Objective: Review of insurance contract prices in order to be more competitive.
+Creation of a database from the company's current contract portfolio.
